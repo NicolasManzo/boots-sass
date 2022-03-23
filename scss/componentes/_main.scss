@@ -1,0 +1,191 @@
+
+.h2 {
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 5rem;
+    text-decoration: underline
+}
+
+p {
+    color: black;
+    font-size: 1rem;
+    font-family: 'Special Elite', cursive;
+    text-align: justify;
+    line-height: 2rem;
+    margin: 1rem;
+}
+
+.elemento_kubrick {
+    background-image: url("../img/kubrick_stanley.jpg");
+     @extend .elementos;
+}
+
+.video {
+    max-width: 100%;
+    height: 25rem;
+}
+
+.elemento_scorsese {
+    background-image: url("../img/scorsese.jpg");
+     @extend .elementos;
+}
+
+.elemento_tarantino {
+    background-image: url("../img/Tarantino.jpg");
+     @extend .elementos;
+}
+
+
+.elemento_spielberg {
+    background-image: url("../img/spielberg.jpg");
+     @extend .elementos;
+}
+
+.elemento_eastwood {
+    background-image: url("../img/clinteastwood.jpg");
+     @extend .elementos;
+}
+.elemento_robocop {
+    background-image: url("../img/robocop.webp");
+     @extend .elementos;
+}
+
+.elemento_rambo {
+    background-image: url("../img/rambo.webp");
+     @extend .elementos;
+}
+
+.elemento_kick {
+    background-image: url("../img/contacto-sangriento.jpg");
+     @extend .elementos;
+}
+
+.elemento_wick {
+    background-image: url("../img/johnwick\ .png");
+     @extend .elementos;
+}
+
+.elemento_terminator {
+    background-image: url("../img/terminator.jpg");
+     @extend .elementos;
+}
+
+.elemento_accion {
+    background-image: url("../img/accionimag\ .png");
+     @extend .elementos;
+}
+
+.elemento_alien {
+    background-image: url("../img/alien.webp");
+    @extend .elementos;
+}
+
+.elemento_blade {
+    background-image: url("../img/bladerunner.jpeg");
+    @extend .elementos;
+}
+
+.elemento_matrix {
+    background-image: url("../img/matrixfoto.jpeg");
+    @extend .elementos;
+}
+
+.elemento_futuro {
+    background-image: url("../img/volveralfuturofoto.jpg");
+     @extend .elementos;
+}
+
+.elemento_tron {
+    background-image: url("../img/tronfoto.jpg");
+     @extend .elementos;
+}
+
+.elemento_ficc {
+    background-image: url("../img/imagencyfy.png");
+     @extend .elementos;
+}
+.elemento_tiempo {
+    background-image: url("../img/chaplin.jpg");
+     @extend .elementos;
+}
+
+.elemento_lewoski {
+    background-image: url("../img/lewoski.jpg");
+     @extend .elementos;
+}
+
+.elemento_relatos {
+    background-image: url("../img/relatossalvajes.jpg");
+     @extend .elementos;
+}
+
+.elemento_panico {
+    background-image: url("../img/locurasvegas.jpg");
+     @extend .elementos;
+}
+
+.elemento_marmota {
+    background-image: url("../img/marmota.jpg");
+     @extend .elementos;
+}
+
+.elemento_comedia {
+    background-image: url("../img/comedia.png");
+     @extend .elementos;
+}
+
+.elemento_exo {
+    background-image: url("../img/exorcistaimag.png");
+     @extend .elementos;
+}
+
+.elemento_mas {
+    background-image: url("../img/masacre_texasimg.jpg");
+    @extend .elementos;
+}
+
+.elemento_respl {
+    background-image: url("../img/elresplandorimag.jpg");
+     @extend .elementos;
+
+}
+
+.elemento_warren {
+    background-image: url("../img/elconjuro.png");
+    @extend .elementos;
+}
+
+.elemento_here {
+    background-image: url("../img/Hereditary.jpg");
+     @extend .elementos;
+}
+
+.elemento_terr {
+    background-image: url("../img/terror.png");
+    @extend .elementos;
+}
+
+.elemento_titanic {
+    background-image: url("../img/titanic.jpg");
+   @extend .elementos;
+}
+
+.elemento_ben {
+    background-image: url("../img/benhur.png");
+   @extend .elementos;
+}
+
+.elemento_anillos {
+    background-image: url("../img/elsenordelosanillos.jpeg");
+    @extend .elementos;
+} 
+
+.elemento_viento {
+    background-image: url("../img/loqueelvientosellevo.jpg");
+     @extend .elementos;
+}
+
+.elemento_west {
+    background-image: url("../img/westsidehistory.jpg");
+     @extend .elementos;
+}

@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fondo {
+  background-color: #d4ab75;
+  padding: 0;
+}
+
+.elementos, .elemento_west, .elemento_viento, .elemento_anillos, .elemento_ben, .elemento_titanic, .elemento_terr, .elemento_here, .elemento_warren, .elemento_respl, .elemento_mas, .elemento_exo, .elemento_comedia, .elemento_marmota, .elemento_panico, .elemento_relatos, .elemento_lewoski, .elemento_tiempo, .elemento_ficc, .elemento_tron, .elemento_futuro, .elemento_matrix, .elemento_blade, .elemento_alien, .elemento_accion, .elemento_terminator, .elemento_wick, .elemento_kick, .elemento_rambo, .elemento_robocop, .elemento_eastwood, .elemento_spielberg, .elemento_tarantino, .elemento_scorsese, .elemento_kubrick {
+  max-width: 100%;
+  height: 25rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.img__nav {
+  max-width: 12rem;
+}
+
+h1 {
+  text-decoration: underline;
+  font-size: 4rem;
+}
+
+.nav__title {
+  font-family: "Bangers", cursive;
+  justify-content: space-between;
+}
+
+.nav {
+  justify-content: flex-end;
+}
+.nav a {
+  font-size: 1.5rem;
+}
+
+.h2 {
+  text-align: center;
+  font-size: 3rem;
+  padding-top: 5rem;
+  text-decoration: underline;
+}
+
+p {
+  color: black;
+  font-size: 1rem;
+  font-family: "Special Elite", cursive;
+  text-align: justify;
+  line-height: 2rem;
+  margin: 1rem;
+}
+
+.elemento_kubrick {
+  background-image: url("../img/kubrick_stanley.jpg");
+}
+
+.video {
+  max-width: 100%;
+  height: 25rem;
+}
+
+.elemento_scorsese {
+  background-image: url("../img/scorsese.jpg");
+}
+
+.elemento_tarantino {
+  background-image: url("../img/Tarantino.jpg");
+}
+
+.elemento_spielberg {
+  background-image: url("../img/spielberg.jpg");
+}
+
+.elemento_eastwood {
+  background-image: url("../img/clinteastwood.jpg");
+}
+
+.elemento_robocop {
+  background-image: url("../img/robocop.webp");
+}
+
+.elemento_rambo {
+  background-image: url("../img/rambo.webp");
+}
+
+.elemento_kick {
+  background-image: url("../img/contacto-sangriento.jpg");
+}
+
+.elemento_wick {
+  background-image: url("../img/johnwick .png");
+}
+
+.elemento_terminator {
+  background-image: url("../img/terminator.jpg");
+}
+
+.elemento_accion {
+  background-image: url("../img/accionimag .png");
+}
+
+.elemento_alien {
+  background-image: url("../img/alien.webp");
+}
+
+.elemento_blade {
+  background-image: url("../img/bladerunner.jpeg");
+}
+
+.elemento_matrix {
+  background-image: url("../img/matrixfoto.jpeg");
+}
+
+.elemento_futuro {
+  background-image: url("../img/volveralfuturofoto.jpg");
+}
+
+.elemento_tron {
+  background-image: url("../img/tronfoto.jpg");
+}
+
+.elemento_ficc {
+  background-image: url("../img/imagencyfy.png");
+}
+
+.elemento_tiempo {
+  background-image: url("../img/chaplin.jpg");
+}
+
+.elemento_lewoski {
+  background-image: url("../img/lewoski.jpg");
+}
+
+.elemento_relatos {
+  background-image: url("../img/relatossalvajes.jpg");
+}
+
+.elemento_panico {
+  background-image: url("../img/locurasvegas.jpg");
+}
+
+.elemento_marmota {
+  background-image: url("../img/marmota.jpg");
+}
+
+.elemento_comedia {
+  background-image: url("../img/comedia.png");
+}
+
+.elemento_exo {
+  background-image: url("../img/exorcistaimag.png");
+}
+
+.elemento_mas {
+  background-image: url("../img/masacre_texasimg.jpg");
+}
+
+.elemento_respl {
+  background-image: url("../img/elresplandorimag.jpg");
+}
+
+.elemento_warren {
+  background-image: url("../img/elconjuro.png");
+}
+
+.elemento_here {
+  background-image: url("../img/Hereditary.jpg");
+}
+
+.elemento_terr {
+  background-image: url("../img/terror.png");
+}
+
+.elemento_titanic {
+  background-image: url("../img/titanic.jpg");
+}
+
+.elemento_ben {
+  background-image: url("../img/benhur.png");
+}
+
+.elemento_anillos {
+  background-image: url("../img/elsenordelosanillos.jpeg");
+}
+
+.elemento_viento {
+  background-image: url("../img/loqueelvientosellevo.jpg");
+}
+
+.elemento_west {
+  background-image: url("../img/westsidehistory.jpg");
+}
+
+/*# sourceMappingURL=style.css.map */

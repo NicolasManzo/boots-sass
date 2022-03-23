@@ -1,0 +1,19 @@
+{
+  "name": "nicolas-manzo-boodstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "sass": "sass scss/style.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasManzo/cine-de-culto--con-boodstrap-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasManzo/cine-de-culto--con-boodstrap-/issues"
+  },
+  "homepage": "https://github.com/NicolasManzo/cine-de-culto--con-boodstrap-#readme"
+}
