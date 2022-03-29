@@ -4,12 +4,13 @@
 }
 
 h1 {
+    color:$color-titulo;
     text-decoration: underline;
     font-size: 4rem;
 }
 
 .nav__title {
-    font-family: 'Bangers', cursive;
+    @include titulos('Bangers', $color-titulo);
     justify-content: space-between;
 }
 
